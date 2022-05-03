@@ -5,16 +5,16 @@ let etapas =[
         candidatos: [
             {
                 numero: '48111',
-                nome: 'Salvador da Rima',
-                partido: 'PJL',
+                nome: 'Silvinho Peciolli',
+                partido: 'FSAD',
                 fotos:[
                 {url: '1.png', legenda: 'Vereador', small: false}
                 ]
             },
             {
                 numero: '65612',
-                nome: 'Pesqueiro kk',
-                partido: 'ABD',
+                nome: 'Marcos Ferroli',
+                partido: 'ABCD',
                 fotos: [
                 {url: '2.png', legenda: 'Vereador', small: false}
                 ]
@@ -27,9 +27,9 @@ let etapas =[
         candidatos: [
             {
                 numero: '55',
-                nome: 'Ferroveiro',
-                partido: 'Capita',
-                vice: 'Cic',
+                nome: 'Carlos Nascimento',
+                partido: 'DBCD',
+                vice: 'Saulo Romario',
                 fotos:[
                 {url: '01.png', legenda: 'Prefeito'},
                 {url: '01-1.webp', legenda: 'Vice-Prefeito', small: true}
@@ -37,9 +37,9 @@ let etapas =[
             },
             {
                 numero: '85',
-                nome: 'Cacereiro',
-                partido: 'Sergi',
-                vice: 'Coque',
+                nome: 'Paulo André',
+                partido: 'DDFR',
+                vice: 'Candido Matias',
                 fotos:[
                 {url: '02.png', legenda: 'Prefeito'},
                 {url: '02-1.jpg', legenda: 'Vice-Prefeito', small: true}
